@@ -51,11 +51,10 @@ Here are some ideas to get you started:
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.BlueStar.workers.dev%2Fsumanbots)](https://telegram.dog/sumanbots)
 
 ### About 🙋🏻‍♂️
-```python
+```python, angular
 name = "BlueStar"
-who_i_am = ['Developer','Coder','Engineer','NITian','Noobie']
-age = 22
-religion = "🇮🇳"
+who_i_am = ['Developer','Coder','Engineer']
+age = 29
 ```
 
 
